@@ -14,7 +14,7 @@ This is the final year diploma project for my AI/ML program. It's an end-to-end 
 
 You can try the live demo of this blueprint, hosted on Hugging Face Spaces:
 
-**[➡️ Try the NGPME Live Demo Here](https://[huggingface.co/spaces/srikarrr/NGPME_major_project])**
+**[➡️ Try the NGPME Live Demo Here](https://huggingface.co/spaces/srikarrr/NGPME_major_project)**
 
 ---
 
