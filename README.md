@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://[YOUR-HUGGING-FACE-SPACE-LINK-HERE])
+[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/srikarrr/NGPME_major_project)
 
 **An AI-powered blueprint for accessible, video-based gait analysis designed for prosthetic users.**
 
@@ -47,26 +47,13 @@ Now, as a diploma student in AI/ML, I *do* understand. And I decided to use my f
 ## 📸 Screenshots
 
 | Login / Signup | Main Dashboard | Analysis & Annotated Video |
-|  |![Uploading Screenshot 2025-10-29 161218.png…]()
-
-
-| <img width="1807" height="919" alt="Screenshot 2025-10-29 162406" src="https://github.com/user-attachments/assets/042a38a5-7721-4ad1-b485-745803affa25" />
-![Uploading Screenshot 2025-10-29 162421.png…]()
-![Uploading Screenshot 2025-10-29 162448.png…]()
-![Uploading Screenshot 2025-10-29 162711.png…]()
-![Uploading Screenshot 2025-10-29 162725.png…]()
-![Uploading Screenshot 2025-10-29 162750.png…]()
-![Uploading Screenshot 2025-10-29 162932.png…]()
-![Uploading Screenshot 2025-10-29 163149.png…]()
-![Uploading Screenshot 2025-10-29 163214.png…]()
-![Uploading Screenshot 2025-10-29 163223.png…]()|
+| :---: | :---: | :---: |
 | 
 
 [Image of Login Screen]
  |  |  |
 | **Performance Charts** | **Session History** | **Real-Time HUD** |
-|  |  | [![Uploading Screenshot 2025-10-29 162421.png…]()
-]|
+|  |  | [Image from Annotated Video] |
 
 ## 🛠️ Technology Stack
 
@@ -111,8 +98,8 @@ To run this project locally:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/](https://github.com/)[YOUR-USERNAME]/[YOUR-REPO-NAME].git
-    cd [YOUR-REPO-NAME]
+    git clone [https://github.com/chavansrikar/NGPME_major_project.git](https://github.com/chavansrikar/NGPME_major_project.git)
+    cd NGPME_major_project
     ```
 
 2.  **Create and activate a virtual environment:**
