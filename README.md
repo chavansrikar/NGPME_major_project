@@ -14,7 +14,7 @@ This is the final year diploma project for my AI/ML program. It's an end-to-end 
 
 You can try the live demo of this blueprint, hosted on Hugging Face Spaces:
 
-**[➡️ Try the NGPME Live Demo Here](https://[YOUR-HUGGING-FACE-SPACE-LINK-HERE])**
+**[➡️ Try the NGPME Live Demo Here](https://[huggingface.co/spaces/srikarrr/NGPME_major_project])**
 
 ---
 
@@ -47,13 +47,26 @@ Now, as a diploma student in AI/ML, I *do* understand. And I decided to use my f
 ## 📸 Screenshots
 
 | Login / Signup | Main Dashboard | Analysis & Annotated Video |
-| :---: | :---: | :---: |
+|  |![Uploading Screenshot 2025-10-29 161218.png…]()
+
+
+| <img width="1807" height="919" alt="Screenshot 2025-10-29 162406" src="https://github.com/user-attachments/assets/042a38a5-7721-4ad1-b485-745803affa25" />
+![Uploading Screenshot 2025-10-29 162421.png…]()
+![Uploading Screenshot 2025-10-29 162448.png…]()
+![Uploading Screenshot 2025-10-29 162711.png…]()
+![Uploading Screenshot 2025-10-29 162725.png…]()
+![Uploading Screenshot 2025-10-29 162750.png…]()
+![Uploading Screenshot 2025-10-29 162932.png…]()
+![Uploading Screenshot 2025-10-29 163149.png…]()
+![Uploading Screenshot 2025-10-29 163214.png…]()
+![Uploading Screenshot 2025-10-29 163223.png…]()|
 | 
 
 [Image of Login Screen]
  |  |  |
 | **Performance Charts** | **Session History** | **Real-Time HUD** |
-|  |  | [Image from Annotated Video] |
+|  |  | [![Uploading Screenshot 2025-10-29 162421.png…]()
+]|
 
 ## 🛠️ Technology Stack
 
